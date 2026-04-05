@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C#-ff69b4?style=for-the-badge&logo=c#&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c#-ff69b4?style=for-the-badge&logo=c#&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MachineLearning-ff69b4?style=for-the-badge&logo=machinelearning&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white"/>
