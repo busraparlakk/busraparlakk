@@ -6,14 +6,14 @@
 
 ---
 
-### 🌸 About Me
-- 💻 Yazılım ile uğraşıyorum
-- 🚀 Backend / AI / Network ilgim var
-- 🎯 Hedef: sağlam projeler yapmak
+###  About Me
+-  Yazılım ile uğraşıyorum
+-  Backend / AI / Network ilgim var
+-  Hedef: sağlam projeler yapmak
 
 ---
 
-### 🛠️ Technologies
+###  Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -22,14 +22,14 @@
 
 ---
 
-### 📊 Stats
+###  Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=00000000"/>
 </p>
 
 ---
 
-### 🐍 Snake Game
+###  Snake Game
 <p align="center">
   <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
