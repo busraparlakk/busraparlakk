@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f4a7c3,e07fa0,c95c88&height=180&section=header&text=Büşra%20Parlak&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descColor=ffe0ef" width="100%"/>
 
-### 💗 Merhaba, ben Büşra!
+###  Merhaba, ben Büşra!
 
 Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.  
 **.NET + React** ile full-stack projeler geliştiriyor,  
@@ -12,7 +12,7 @@ Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.
 
 ---
 
-## 🌸 Hakkımda
+##  Hakkımda
 
 ```yaml
 ad       : Büşra Parlak
@@ -50,7 +50,7 @@ ilgi     : Makine Öğrenmesi, Görüntü İşleme
 
 ---
 
-## 🌷 Projelerim
+##  Projelerim
 
 | Proje | Teknolojiler | Açıklama |
 |---|---|---|
@@ -60,7 +60,7 @@ ilgi     : Makine Öğrenmesi, Görüntü İşleme
 
 ---
 
-## 📊 GitHub İstatistikler
+##  GitHub İstatistikler
 
 <div align="center">
 
@@ -71,8 +71,11 @@ ilgi     : Makine Öğrenmesi, Görüntü İşleme
 </div>
 
 ---
+## 🎮 Yılan Oyunu
+
+[![Snake Game](https://img.shields.io/badge/🐍%20Oyna-Snake%20Game-f4a7c3?style=for-the-badge)](https://busraparlakk.github.io/snake-game/)
 <img src="https://raw.githubusercontent.com/busraparlakk/busraparlakk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-## 📬 İletişim
+##  İletişim
 
 <div align="center">
 
