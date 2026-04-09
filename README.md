@@ -71,10 +71,6 @@ ilgi     : Makine Öğrenmesi, Görüntü İşleme
 </div>
 
 ---
-## 🎮 Yılan Oyunu
-
-[![Snake Game](https://img.shields.io/badge/🐍%20Oyna-Snake%20Game-f4a7c3?style=for-the-badge)](https://busraparlakk.github.io/snake-game/)
-<img src="https://raw.githubusercontent.com/busraparlakk/busraparlakk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 ##  İletişim
 
 <div align="center">
