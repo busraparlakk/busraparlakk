@@ -1,54 +1,17 @@
-<h1 align="center" style="color:#ff69b4;">Hi 👋, I'm BÜŞRA </h1>
+<div align="center">
 
-<p align="center">
-  <em>Software Developer</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f4a7c3,e07fa0,c95c88&height=180&section=header&text=Büşra%20Parlak&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descColor=ffe0ef" width="100%"/>
 
----
+### 💗 Merhaba, ben Büşra!
 
-###  About Me
--  Yazılım ile uğraşıyorum
--  Backend / AI / Network ilgim var
--  Hedef: sağlam projeler yapmak
+Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.  
+**.NET + React** ile full-stack projeler geliştiriyor,  
+**Docker**, **MongoDB** ve **RESTful API** konularında deneyim kazanıyorum.
 
----
-
-###  Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c#-ff69b4?style=for-the-badge&logo=c#&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MachineLearning-ff69b4?style=for-the-badge&logo=machinelearning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-ff69b4?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-###  Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ff69b4&bg_color=00000000"/>
-</p>
+## 🌸 Hakkımda
 
----
-
-###  Snake Game
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
-<!--
-**busraparlakk/busraparlakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
