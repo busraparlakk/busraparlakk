@@ -15,12 +15,12 @@ Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.
 ##  Hakkımda
 
 ```yaml
-ad       : Büşra Parlak
-konum    : Türkiye
-üniversite: Fırat Üniversitesi — Yazılım Mühendisliği (2023-2027)
-odak     : Backend (.NET) + Frontend (React) 
+ad         : Büşra Parlak
+konum      : Türkiye
+üniversite : Fırat Üniversitesi — Yazılım Mühendisliği (2023-2027)
+odak       : Backend (.NET) + Frontend (React) 
 öğreniyorum: PostgreSQL, LLM tabanlı uygulama geliştirme
-ilgi     : Makine Öğrenmesi, Görüntü İşleme, DevOps
+ilgi       : Makine Öğrenmesi, Görüntü İşleme, DevOps
 ```
 
 ---
