@@ -59,17 +59,6 @@ ilgi     : Makine Öğrenmesi, Görüntü İşleme, DevOps
 | 🤖 ML & Görüntü İşleme | Python | Model eğitimi, görüntü ön işleme |
 
 ---
-
-##  GitHub İstatistikler
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=busraparlakk&show_icons=true&theme=rose_pine&title_color=f4a7c3&icon_color=e07fa0&text_color=ffe0ef&bg_color=2d1b25&border_color=f4a7c3&hide_border=false" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busraparlakk&layout=compact&theme=rose_pine&title_color=f4a7c3&text_color=ffe0ef&bg_color=2d1b25&border_color=f4a7c3&langs_count=6" height="165"/>
-
-</div>
-
 ---
 ##  İletişim
 
